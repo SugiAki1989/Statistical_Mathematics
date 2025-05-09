@@ -1,1 +1,4 @@
-# Foundations_Of_Modern_Mathematical_Statistics
+# Statistical_Mathematics
+
+久保川達也先生の著書「現代数理統計学の基礎」と竹村彰通先生の著書「現代数理統計学」の章末演習問題の答案をまとめるノート。
+私の手書き
