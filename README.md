@@ -26,9 +26,9 @@
 - [Question11: 発展問題のため解答なし]()
 
 ### Chapter2
-- [Question01: 密度関数の性質(規格化定数)と分布関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-1.png)
-- [Question01: 密度関数の性質(規格化定数)と分布関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-2.png)
-- [Question01: 密度関数の性質(規格化定数)と分布関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-3.png)
+- [Question01: 密度関数の性質(規格化定数)と分布関数1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-1.png)
+- [Question01: 密度関数の性質(規格化定数)と分布関数2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-2.png)
+- [Question01: 密度関数の性質(規格化定数)と分布関数3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-3.png)
 - [Question02: ]()
 - [Question03: ]()
 - [Question04: ]()
