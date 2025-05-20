@@ -21,9 +21,9 @@
 - [Question06: ベイズの定理の問題2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter1-6.png)
 - [Question07: ベイズの定理の問題3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter1-7.png)
 - [Question08: ボンフェローニの不等式](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter1-8.png)
-- [Question09: 発展問題のため解答なし]()
-- [Question10: 発展問題のため解答なし]()
-- [Question11: 発展問題のため解答なし]()
+- Question09: 発展問題のため解答なし
+- Question10: 発展問題のため解答なし
+- Question11: 発展問題のため解答なし
 
 ### Chapter2
 - [Question01: 密度関数の性質(規格化定数)と分布関数1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-1-1.png)
@@ -55,10 +55,12 @@
 - [Question15: 変数変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-15.png)
 - [Question16: 分布関数の期待値の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-16-1.png)
 - [Question16: 分布関数の期待値の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-16-2.png)
-- [Question17: ]()
-- [Question18: ]()
-- [Question19: 発展問題のため解答なし]()
-- [Question20: 発展問題のため解答なし]()
+- [Question17: 期待値の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-17-1.png)
+- [Question17: 期待値の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-17-2.png)
+- [Question18: モーメント母関数の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-18-1.png)
+- [Question18: モーメント母関数の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-18-2.png)
+- Question19: 発展問題のため解答なし
+- Question20: 発展問題のため解答なし
 
 ### Chapter3
 - [Question01: ]()
@@ -109,7 +111,7 @@
 - [Question22: ]()
 - [Question23: ]()
 - [Question24: ]()
-- [Question25: 発展問題のため解答なし]()
+- Question25: 発展問題のため解答なし
 
 ### Chapter5
 - [Question01: ]()
@@ -130,7 +132,7 @@
 - [Question16: ]()
 - [Question17: ]()
 - [Question18: ]()
-- [Question19: 発展問題のため解答なし]()
+- Question19: 発展問題のため解答なし
 
 ### Chapter6
 - [Question01: ]()
@@ -149,7 +151,7 @@
 - [Question14: ]()
 - [Question15: ]()
 - [Question16: ]()
-- [Question17: 発展問題のため解答なし]()
+- Question17: 発展問題のため解答なし
 - [Question18: ]()
 
 ### Chapter7
@@ -162,8 +164,8 @@
 - [Question07: ]()
 - [Question08: ]()
 - [Question09: ]()
-- [Question10: 発展問題のため解答なし]()
-- [Question11: 発展問題のため解答なし]()
+- Question10: 発展問題のため解答なし
+- Question11: 発展問題のため解答なし
 
 ### Chapter8
 - [Question01: ]()
