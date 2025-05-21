@@ -57,6 +57,7 @@
 - [Question16: 分布関数の期待値の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-16-2.png)
 - [Question17: 期待値の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-17-1.png)
 - [Question17: 期待値の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-17-2.png)
+- [Question17: 期待値の性質3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-17-3.png)
 - [Question18: モーメント母関数の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-18-1.png)
 - [Question18: モーメント母関数の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter2-18-2.png)
 - Question19: 発展問題のため解答なし
