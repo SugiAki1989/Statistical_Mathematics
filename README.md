@@ -64,7 +64,7 @@
 - Question20: 発展問題のため解答なし
 
 ### Chapter3
-- [Question01: ]()
+- [Question01: 離散一様分布と確率母関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-1.png)
 - [Question02: ]()
 - [Question03: ]()
 - [Question04: ]()
