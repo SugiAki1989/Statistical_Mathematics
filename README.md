@@ -65,7 +65,8 @@
 
 ### Chapter3
 - [Question01: 離散一様分布と確率母関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-1.png)
-- [Question02: ]()
+- [Question02: 二項係数の性質](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-2-1.png)
+- [Question02: 二項定理と数学的帰納法](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-2-2.png)
 - [Question03: ]()
 - [Question04: ]()
 - [Question05: ]()
