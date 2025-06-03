@@ -76,7 +76,7 @@
 - [Question07: 負の二項分布とχ2乗分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-7.png)
 - [Question08: ドモアブル・ラプラスの定理1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-8-1.png)
 - [Question08: ドモアブル・ラプラスの定理2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-8-2.png)
-- [Question09: ]()
+- [Question09: ポアソン分布の標準正規分布への収束](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-9.png)
 - [Question10: ]()
 - [Question11: ]()
 - [Question12: ]()
