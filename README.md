@@ -96,13 +96,11 @@
 - [Question18: χ2分布の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-18-2.png)
 - [Question19: ベータ分布の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-19-1.png)
 - [Question19: ベータ分布の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-19-2.png)
-- [Question20: ガンマ分布の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-20-1.png)
-- [Question20: ガンマ分布の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-20-2.png)
+- [Question20: ガンマ分布の性質](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-20.png)
 - [Question21: 指数分布の性質1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-21-1.png)
 - [Question21: 指数分布の性質2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-21-2.png)
 - [Question22: ローレンツ曲線1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-22-1.png)
 - [Question22: ローレンツ曲線2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-22-2.png)
-- [Question22: ローレンツ曲線3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-22-3.png)
 
 ### Chapter4
 - [Question01: ]()
