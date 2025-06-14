@@ -10,6 +10,12 @@
 できる限り正確な記述を心がけていますが、誤りが含まれている可能性もあります。
 試験対策や参考資料としてご利用いただく際は、ご自身の判断でご活用ください。
 少しでも皆さんの学びのヒントになれば幸いです。あと…私の手書きなので、汚いです。
+下記の通り読者の方の解答もアップされているので、こちらのほうが参考になるかも。
+
+- [『現代数理統計学の基礎』章末演習問題解答1](https://qiita.com/toukei/items/f9c19bf506b9894ba04e)
+- [『現代数理統計学の基礎』章末演習問題解答2](https://qiita.com/tags/kazu-rider)
+- [『現代数理統計学の基礎』章末演習問題解答3](https://thunderbirds555.hatenadiary.jp/entry/2019/02/10/151527)
+- [『現代数理統計学の基礎』章末演習問題解答4](https://www.muscle-castle.com/foundation-of-modern-mathematical-statistics-chapter1/)
 
 ## 現代数理統計学の基礎
 ### Chapter1
@@ -103,30 +109,30 @@
 - [Question22: ローレンツ曲線2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter3-22-2.png)
 
 ### Chapter4
-- [Question01: ]()
-- [Question02: ]()
-- [Question03: ]()
-- [Question04: ]()
-- [Question05: ]()
-- [Question06: ]()
-- [Question07: ]()
-- [Question08: ]()
-- [Question09: ]()
-- [Question10: ]()
-- [Question11: ]()
-- [Question12: ]()
-- [Question13: ]()
-- [Question14: ]()
-- [Question15: ]()
-- [Question16: ]()
-- [Question17: ]()
-- [Question18: ]()
-- [Question19: ]()
-- [Question20: ]()
-- [Question21: ]()
-- [Question22: ]()
-- [Question23: ]()
-- [Question24: ]()
+- [Question01: コーシー・シュワルツの不等式](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-1-1.png)
+- [Question02: 確率変数の和の平均と分散](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-2-1.png)
+- [Question03: 条件付き期待値と分散](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-3-1.png)
+- [Question04: 2変量正規分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-4-1.png)
+- [Question05: 正規分布の変数変換_畳み込み](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-5-1.png)
+- [Question06: 一様分布の変数変換_畳み込み](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-6-1.png)
+- [Question07: ポアソン分布の和](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-7-1.png)
+- [Question08: Box-Muller変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-8-1.png)
+- [Question09: 2次元確率変数の変数変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-9-1.png)
+- [Question10: 2次元確率変数の変数変換_和と差](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-10-1.png)
+- [Question11: 2次元確率変数の変数変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-11-1.png)
+- [Question12: 2次元確率変数の変数変換_コーシー分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-12-1.png)
+- [Question13: 連続確率変数と離散確率変数の同時分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-13-1.png)
+- [Question14: 2次元確率変数の変数変換_ベータ分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-14-1.png)
+- [Question15: 3次元確率変数の変数変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-15-1.png)
+- [Question16: 繰り返し期待値の法則](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-16-1.png)
+- [Question17: 繰り返し分散](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-17-1.png)
+- [Question18: 2次元確率変数の変数変換_極座標変換](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-18-1.png)
+- [Question19: 階層ベータ二項分布モデル](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-19-1.png)
+- [Question20: 階層ガンマポアソン分布モデル](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-20-1.png)
+- [Question21: 2次元確率変数の変数変換_2変量正規分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-21-1.png)
+- [Question22: ディリクレ分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-22-1.png)
+- [Question23: 多項分布](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-23-1.png))
+- [Question24: 多変量正規分布の積率母関数](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter4-24-1.png))
 - Question25: 発展問題のため解答なし
 
 ### Chapter5
