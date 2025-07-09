@@ -175,7 +175,8 @@
 - [Question16: 順序統計量1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-16-1.png)
 - [Question16: 順序統計量2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-16-2.png)
 - [Question17: 順序統計量](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-17-1.png)
-- [Question18: 順序統計量](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-18-1.png)
+- [Question18: 順序統計量1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-18-1.png)
+- [Question18: 順序統計量2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter5-18-2.png)
 - Question19: 発展問題のため解答なし
 
 ### Chapter6
