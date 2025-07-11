@@ -181,9 +181,10 @@
 
 ### Chapter6
 - [Question01: 指数分布族1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-1-1.png)
-- [Question01: 指数分布族2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-2-1.png)
-- [Question01: 指数分布族3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-3-1.png)
-- [Question01: 指数分布族4](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-4-1.png)
+- [Question01: 指数分布族2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-1-2.png)
+- [Question01: 指数分布族3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-1-3.png)
+- [Question01: 指数分布族4](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-1-4.png)
+- [Question01: 指数分布族5](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-1-5.png)
 - [Question02: 十分統計量](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-2-1.png)
 - [Question03: 十分統計量](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-3-1.png)
 - [Question04: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-4-1.png)
