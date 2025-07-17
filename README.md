@@ -194,6 +194,8 @@
 - [Question04: 最尤推定3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-4-3.png)
 - [Question05: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-5-1.png)
 - [Question06: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-6-1.png)
+- [Question06: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-6-2.png)
+- [Question06: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-6-3.png)
 - [Question07: ベイズ推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-7-1.png)
 - [Question08: ベイズ推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-8-1.png)
 - [Question09: 不偏性](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-9-1.png)
