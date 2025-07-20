@@ -207,7 +207,8 @@
 - [Question13: 最尤推定2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-13-2.png)
 - [Question14: 最尤推定](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-14-1.png)
 - [Question15: クラメールラオの不等式](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-15-1.png)
-- [Question16: 一致性](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-16-1.png)
+- [Question16: 一致性1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-16-1.png)
+- [Question16: 一致性2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-16-2.png)
 - Question17: 発展問題のため解答なし
 - [Question18: クラメールラオの不等式](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-18-1.png)
 
