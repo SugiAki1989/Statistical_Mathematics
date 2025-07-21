@@ -214,8 +214,11 @@
 - [Question18: クラメールラオの不等式2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter6-18-2.png)
 
 ### Chapter7
-- [Question01: 尤度比検定(ワルド検定、スコア検定)1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-1.png)
-- [Question01: 尤度比検定(ワルド検定、スコア検定)2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-2.png)
+- [Question01: 問1_尤度比検定1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-1.png)
+- [Question01: 問1_ワルド検定、スコア検定2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-2.png)
+- [Question01: 問1_尤度比検定3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-3.png)
+- [Question01: 問1_ワルド検定4](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-4.png)
+- [Question01: 問1_スコア検定5](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-1-5.png)
 - [Question02: 尤度比検定(非単純仮説)1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-2-1.png)
 - [Question02: 尤度比検定(非単純仮説)2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-2-2.png)
 - [Question03: 尤度比検定(ワルド検定、スコア検定)1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-3-1.png)
