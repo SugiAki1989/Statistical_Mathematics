@@ -241,10 +241,13 @@
 - [Question06: 尤度比検定(F検定)3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-6-3.png)
 - [Question07: 尤度比検定1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-7-1.png)
 - [Question07: 尤度比検定2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-7-2.png)
+- [Question07: 尤度比検定3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-7-3.png)
 - [Question08: 尤度比検定1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-8-1.png)
 - [Question08: 尤度比検定2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-8-2.png)
+- [Question08: 尤度比検定3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-8-3.png)
 - [Question09: 尤度比検定1](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-9-1.png)
 - [Question09: 尤度比検定2](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-9-2.png)
+- [Question09: 尤度比検定3](https://github.com/SugiAki1989/Statistical_Mathematics/blob/main/Chapter7-9-3.png)
 - Question10: 発展問題のため解答なし
 - Question11: 発展問題のため解答なし
 
